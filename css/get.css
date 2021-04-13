@@ -23,13 +23,15 @@ img{
 footer{
 	padding: 0px;
 	background-color: #929c95;
-	text-align: center;
+	text-align: left;
 	color: black;
+	display: outline;
 }
 a{
 	text-decoration: none;
 	color: black;
 }
+
 
 <header>
 <img src="img/TheRaceSystem.png" style="shape-image-threshold: circle"
