@@ -1,7 +1,12 @@
+html, body{
+	font-family: sans-serif;
+	margin: 0px;
+}
+
 header{
 	background-color: #ff867d;
 	padding: 10px;
-	text-align: 
+	text-align: center;
 
 }
 
@@ -10,12 +15,25 @@ h1{
 }
 
 img{
-	width: 60%;
-	height: 400px;
-	border-radius: 10
+		width: 500px;
+	border-radius: 50px;
+	border: 20px solid #34c6eb;
+}
+
+footer{
+	padding: 0px;
+	background-color: #929c95;
+	text-align: center;
+	color: black;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
 
 <header>
-<img src="img/TheRaceSystem.png" style="shape-image-threshold: circle" >
+<img src="img/TheRaceSystem.png" style="shape-image-threshold: circle"
+alt="Paris" class="center"> >
 <h1>
 TheRaceSystem made by David
 </h1>
